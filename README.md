@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Christy 👋</h1>
+<p align="center">
+  🚀 Self-driven developer | 💾 SQL Enthusiast | 💡 Always learning
+</p>
 
-<!--
-**christyuk/christyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Tools
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📘 Featured Project
+
+#### [📊 Personal Expense Tracker (SQL)](https://github.com/christyuk/personal-expense-tracker-sql)
+> A MySQL-based mini-project to manage user expenses  
+> ✅ Stored procedures  
+> ✅ Views  
+> ✅ Joins & aggregations  
+> ✅ Organized schema.sql
+
+---
+
+### 💡 Currently Exploring
+- Python + SQL automation
+- Web apps (HTML/CSS/JS + database)
+- GitHub project workflows
+
+---
+
+### 🛠️ Skills
+
+| Category        | Technologies                         |
+|----------------|--------------------------------------|
+| **Languages**   | SQL, HTML, CSS                       |
+| **Database**    | MySQL (Workbench)                    |
+| **Tools**       | Git, GitHub, VS Code                 |
+| **Other**       | Problem Solving, Self-Learning       |
+
+---
+
+### 📫 Let’s Connect
+- 💼 [GitHub](https://github.com/christyuk)
+- 🌐 More coming soon...
+
+---
+
+_🚧 Profile README still growing — new projects coming soon!_
