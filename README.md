@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Christy 👋</h1>
 <p align="center">
-  🚀 Self-driven developer | 💾 front-end developer | 💡 Always learning
+  🚀 Self-driven developer |🚀 Aspiring Full Stack Developer | 🔍 **Tech Explorer | 💡 Always learning
 </p>
 
 ---
